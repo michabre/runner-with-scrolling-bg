@@ -1,0 +1,21 @@
+{
+  "name": "runner-with-scrolling-bg",
+  "version": "1.0.0",
+  "description": "Simple 2D Phaser game with a runner and scrolling background.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michabre",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michabre/runner-with-scrolling-bg.git"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "phaser": "^3.20.1"
+  },
+  "devDependencies": {}
+}
