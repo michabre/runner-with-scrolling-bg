@@ -14,7 +14,8 @@
     "url": "https://github.com/michabre/runner-with-scrolling-bg.git"
   },
   "dependencies": {
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.1",
+    "minimist": "^1.2.5",
     "phaser": "^3.20.1"
   },
   "devDependencies": {}
