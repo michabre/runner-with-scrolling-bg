@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "http-server": "^0.12.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "phaser": "^3.20.1"
   },
   "devDependencies": {}
